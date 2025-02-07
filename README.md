@@ -16,9 +16,9 @@ I am passionate about offensive security, ethical hacking, and software developm
 - 🔹 **Development Tools:** Git, Docker, VS Code
 
 ## 📊 GitHub Stats
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoArola&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoArola&layout=compact&theme=dark)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlbertoArola&theme=darkhub)
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertoarola&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoarola&layout=compact&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=albertoarola&theme=darkhub)
 
 ## 🔥 Top Projects
 - 🚀 **[Project Name](Project Link)** - Short description
