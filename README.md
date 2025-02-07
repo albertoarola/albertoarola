@@ -12,7 +12,7 @@ I am passionate about offensive security, ethical hacking, and software developm
 ## 🛠 Skills & Tools
 - 🔹 **Languages:** Python, C/C++, JavaScript, Bash, Java
 - 🔹 **Frameworks & Libraries:** Flask
-- 🔹 **Cybersecurity Tools:** Wireshark, Burp Suite, Metasploit, Nmap, Kali Linux
+- 🔹 **Tools:** Wireshark, Burp Suite, Metasploit, Nmap, CodeQL
 - 🔹 **Development Tools:** Git, Docker, VS Code
 
 ## 📊 GitHub Stats
@@ -20,9 +20,6 @@ I am passionate about offensive security, ethical hacking, and software developm
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albertoarola&layout=compact&theme=dark)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=albertoarola&theme=darkhub)
 
-## 🔥 Top Projects
-- 🚀 **[Project Name](Project Link)** - Short description
-- 🎯 **[Project Name](Project Link)** - Short description
 
 ## 📜 Certifications & Achievements
 - 🏆 **Cisco CCNA v7.0 Enterprise Networking, Security and Automation**
