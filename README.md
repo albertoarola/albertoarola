@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a 26-year-old Master's student in Computer Engineering specializing in Cybersecurity at Federico II University of Naples. Currently, I'm also attending the Cyber HackAdemy, a program born from the collaboration between Federico II University and Accenture, under the patronage of the National Cybersecurity Agency (ACN).
 
-I am passionate about cybersecurity, ethical hacking, and software development. I enjoy participating in CTF (Capture The Flag) competitions and constantly improving my skills in penetration testing and secure coding practices.
+I am passionate about offensive security, ethical hacking, and software development. I enjoy participating in CTF (Capture The Flag) competitions and constantly improving my skills in penetration testing.
 
 ## 🎓 Education
 - **Master's Degree in Computer Engineering (Cybersecurity Specialization)** - Federico II University of Naples
