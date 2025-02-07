@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 Hi, my name is Alberto Arola and I'm a Master Degree student in Computer Engineer with a curriculum in Cybersecurity.
+💻 Currently I'm also a student of the Cyber HackAdemy in partnership between the Università degli studi di Napoli Federico II and Accenture, sponsored by the ACN (the national agency of Cybersecurity of Italy).
 
 <!--
 **albertoarola/albertoarola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
