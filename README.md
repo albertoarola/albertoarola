@@ -1,18 +1,26 @@
-👋 Hi, my name is Alberto Arola and I'm a Master Degree student in Computer Engineer with a curriculum in Cybersecurity.
+# Hi there, I'm Alberto Arola! 👋
 
-💻 I'm currently a student of the Cyber HackAdemy in partnership between the Università degli studi di Napoli Federico II and Accenture, sponsored by the ACN (the Italy's national agency of Cybersecurity).
+## 🚀 About Me
+I'm a 26-year-old Master's student in Computer Engineering specializing in Cybersecurity at Federico II University of Naples. Currently, I'm also attending the Cyber HackAdemy, a program born from the collaboration between Federico II University and Accenture, under the patronage of the National Cybersecurity Agency (ACN).
 
-<!--
-**albertoarola/albertoarola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills & Tools
+- 🔹 Languages: Python, C/C++, JavaScript, Bash, Java
+- 🔹 Frameworks & Libraries: Flask
+- 🔹 Tools: Git, Docker, Wireshark, Burp Suite, Metasploit, IDA Pro
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlbertoArola&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoArola&layout=compact&theme=dark)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AlbertoArola&theme=darkhub)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Top Projects
+- 🚀 [Project Name](Project Link) - Short description
+- 🎯 [Project Name](Project Link) - Short description
+
+## 🌍 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/albertoarola)
+- 💼 [GitHub](https://github.com/AlbertoArola)
+
+---
+⭐️ From [Alberto Arola](https://github.com/AlbertoArola)
+
