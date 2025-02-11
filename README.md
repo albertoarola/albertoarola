@@ -12,7 +12,7 @@ I am passionate about offensive security, ethical hacking, and software developm
 ## 🛠 Skills & Tools
 - 🔹 **Languages:** Python, C/C++, JavaScript, Bash, Java
 - 🔹 **Frameworks & Libraries:** Flask
-- 🔹 **Tools:** Wireshark, Burp Suite, Metasploit, Nmap, CodeQL
+- 🔹 **Tools:** Wireshark, Burp Suite, Metasploit, Nmap, CodeQL, Qualys
 - 🔹 **Development Tools:** Git, Docker, VS Code
 
 ## 📊 GitHub Stats
